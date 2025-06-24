@@ -96,12 +96,4 @@ The dashboard offered a comprehensive view of Superstore performance, aiding in 
   - Contributed over ₹1,500,000 in total (~30%)
  
 
-★ Personal Learning – Superstore Sales Analysis (Excel)
-
-• Gained hands-on experience in cleaning raw data using Excel tools such as Power Query, Remove Duplicates, and Text to Columns.
-• Learned to transform and standardize data types (e.g., text to date, numeric formatting) for accurate analysis.
-• Developed dynamic dashboards using Pivot Tables and Pivot Charts to track key metrics like sales, profit, and customer segments.
-• Used Slicers to enable interactive filtering by Region, Segment, and Category for improved user experience.
-• Strengthened skills in deriving insights from data, such as identifying top-selling categories and underperforming regions.
-• Improved understanding of structured reporting and dashboard storytelling in Excel.
 
