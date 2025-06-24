@@ -94,3 +94,13 @@ The dashboard offered a comprehensive view of Superstore performance, aiding in 
   - High sales (~₹700K) but low/negative profit
 - ✅ **Top 10 Customers**:
   - Contributed over ₹1,500,000 in total (~30%)
+ 
+
+Personal Learning - Superstore Sales Analysis (Excel)
+
+• Developed hands-on expertise in cleaning and preparing raw sales data using Excel tools such as Power Query, Remove Duplicates, and Text to Columns.
+• Improved skills in data transformation by standardizing date formats, fixing inconsistent entries, and organizing tables for analysis.
+• Built interactive dashboards using Pivot Tables, Pivot Charts, and Slicers to track sales, profit, and category-wise performance.
+• Learned to apply slicers and filters to make the dashboard user-friendly and support real-time decision making.
+• Strengthened ability to draw actionable business insights like top-performing products, customer segments, and regional trends.
+
